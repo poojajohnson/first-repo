@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pooja's First Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #fff3e6;
+      color: #333;
+      text-align: center;
+      padding-top: 50px;
+    }
+    h1 {
+      font-size: 3em;
+      color: #ff6600;
+    }
+    p {
+      font-size: 1.2em;
+      color: #444;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hey, I'm Pooja!</h1>
+  <p>This is my first webpage using GitHub 🚀</p>
+  <p>I’m on my journey to become a tech queen 👑</p>
+</body>
+</html>
